@@ -1,4 +1,4 @@
-# JavaSort!
+# JavaSort
 
 • Aplicação em Java Swing que carregue um arquivo CSV com ao menos 100
 registros e 5 colunas.
